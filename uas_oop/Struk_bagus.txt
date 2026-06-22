@@ -1,0 +1,24 @@
+=================================================
+               STRUK PEMESANAN PC                
+=================================================
+Nama Pemesan   : bagus
+No. Telepon    : 08123456789
+Tier Rakitan   : Mid
+Catatan        : Belum Lunas
+-------------------------------------------------
+KOMPONEN RAKITAN:
+- CPU          : [CPU] Core i5-13400F
+- VGA          : [VGA] XFX Speedster QICK 319 RX 7800 XT 16GB
+- Motherboard  : B760M Pro RS WIFI DDR5
+- RAM          : XPG Lancer RGB 32GB (2x16GB)
+- Penyimpanan  : Black SN850X 1TB PCIe 4.0 NVMe
+- Power Supply : RM750e 750W 80+ Gold
+- Cooler       : Kraken 240 RGB
+- Casing       : H5 Flow
+- Fan          : P12 PWM PST A-RGB (3-Pack)
+-------------------------------------------------
+Jumlah Unit    : 1 PC
+TOTAL BAYAR    : Rp24.850.000,00
+=================================================
+       Terima kasih atas pesanan Anda!           
+=================================================
